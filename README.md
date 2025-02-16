@@ -12,7 +12,7 @@ Dự án Xylophone trong Flutter là một ứng dụng cho phép người dùng
 
 ## Hình ảnh
 
-![Xylophone App](assets/images/image.png)
+![Xylophone App](assets/image.png)
 
 ## Bắt đầu
 
